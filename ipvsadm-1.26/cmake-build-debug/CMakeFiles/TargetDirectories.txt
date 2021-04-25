@@ -1,0 +1,3 @@
+/cygdrive/d/gitee/c_open_project/ipvsadm-1.26/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/d/gitee/c_open_project/ipvsadm-1.26/cmake-build-debug/CMakeFiles/ipvsadm_1_26.dir
+/cygdrive/d/gitee/c_open_project/ipvsadm-1.26/cmake-build-debug/CMakeFiles/edit_cache.dir
